@@ -7,10 +7,4 @@ Now i am in development branch
 THis is being written in the test branch
 
 
-<<<<<<< HEAD
-This is test branch. (There is an update on remote)
-=======
-This is test branch
-
-Here is a new line added remotely on test branch
->>>>>>> b96bc82dacbc8764119dffcd677fbff39802d7b4
+Made changes after adding a Tag 
